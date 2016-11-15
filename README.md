@@ -1,1 +1,1 @@
-<h1>Ain't Nothing but Some Git / Github Learnin'</h1>
+<h1>Ain't Nothin' but Some Git / Github Learnin'</h1>
